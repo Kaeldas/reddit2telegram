@@ -215,7 +215,6 @@ Currently alive channels
 | [/r/whitepeopletwitter](https://www.reddit.com/r/whitepeopletwitter/) | [@whitepeopletweets](https://t.me/whitepeopletweets) | 1 hour |
 | [/r/Trackers](https://www.reddit.com/r/Trackers/) | [@r_trackers](https://t.me/r_trackers) | 1 hour |
 | [/r/borderHands](https://www.reddit.com/r/borderHands/) & [/r/Borderlands](https://www.reddit.com/r/Borderlands/) & [/r/Borderlands2](https://www.reddit.com/r/Borderlands2/) & [/r/borderlands3](https://www.reddit.com/r/borderlands3/) | [@r_vault_hunters](https://t.me/r_vault_hunters) | 1 hour |
-| [/r/therightcantmeme](https://www.reddit.com/r/therightcantmeme/) | [@therightcantmeme](https://t.me/therightcantmeme) | 1 hour |
 | [/r/CoolGithubProjects](https://www.reddit.com/r/CoolGithubProjects/) & [/r/coolcstechtalks](https://www.reddit.com/r/coolcstechtalks/) | [@r_CoolGithubProjects](https://t.me/r_CoolGithubProjects) | 1 hour |
 | [/r/evilbuildings](https://www.reddit.com/r/evilbuildings/) | [@r_evilbuildings](https://t.me/r_evilbuildings) | 1 hour |
 | [/r/RATS](https://www.reddit.com/r/RATS/) | [@rattit](https://t.me/rattit) | 1 hour |
@@ -251,7 +250,7 @@ Currently alive channels
 | [/r/tifu](https://www.reddit.com/r/tifu/) | [@r_channels_tifu](https://t.me/r_channels_tifu) | 1 hour |
 | [/r/Vinesauce](https://www.reddit.com/r/Vinesauce/) | [@r_vinesauce](https://t.me/r_vinesauce) | 1 hour |
 | [/r/freegamefindings](https://www.reddit.com/r/freegamefindings/) | [@r_freegamefindings](https://t.me/r_freegamefindings) | 1 hour |
-| [/r/bakchodi](https://www.reddit.com/r/bakchodi/) | [@r_bakchodi](https://t.me/r_bakchodi) | 1 hour |
+| [/r/bakchodi+Chodi](https://www.reddit.com/r/bakchodi+Chodi/) | [@r_bakchodi](https://t.me/r_bakchodi) | 1 hour |
 | [/r/OurWorldTWD](https://www.reddit.com/r/OurWorldTWD/) | [@OurWorldTWD](https://t.me/OurWorldTWD) | 1 hour |
 | [/r/ChelseaFC](https://www.reddit.com/r/ChelseaFC/) | [@rChelseaFC](https://t.me/rChelseaFC) | 1 hour |
 | [Some](https://www.reddit.com/r/theredpill+pussypass+pussypassdenied+mensrights/). | [@manpill](https://t.me/manpill) | 1 hour |
@@ -287,7 +286,6 @@ Currently alive channels
 | [/r/grandorder](https://www.reddit.com/r/grandorder/) | [@grndordr](https://t.me/grndordr) | 1 hour |
 | [/r/ShitPostCrusaders](https://www.reddit.com/r/ShitPostCrusaders/) | [@r_shitpostcrusaders](https://t.me/r_shitpostcrusaders) | 1 hour |
 | [/r/plsnobulli](https://www.reddit.com/r/plsnobulli/) | [@r_plsnobulli](https://t.me/r_plsnobulli) | 1 hour |
-| [/r/humanbeingbros](https://www.reddit.com/r/humanbeingbros/) | [@humanbeingbros](https://t.me/humanbeingbros) | 1 hour |
 | [/r/theydidthemath](https://www.reddit.com/r/theydidthemath/) | [@TheyDidTheMath](https://t.me/TheyDidTheMath) | 1 hour |
 | [/r/EliteDangerous](https://www.reddit.com/r/EliteDangerous/) | [@EliteDanger0us](https://t.me/EliteDanger0us) | 1 hour |
 | [/r/motivation](https://www.reddit.com/r/motivation/) | [@Mootivati0n](https://t.me/Mootivati0n) | 1 hour |
@@ -298,8 +296,6 @@ Currently alive channels
 | [/r/OneTrueTohsaka](https://www.reddit.com/r/OneTrueTohsaka/) | [@churchoftohsaka](https://t.me/churchoftohsaka) | 1 hour |
 | [/r/vexillology](https://www.reddit.com/r/vexillology/) | [@r_vexillology](https://t.me/r_vexillology) | 1 hour |
 | [/r/pickuplines](https://www.reddit.com/r/pickuplines/) | [@r_pickuplines](https://t.me/r_pickuplines) | 1 hour |
-| [/r/Cumtown](https://www.reddit.com/r/Cumtown/) | [@r_Cumtown](https://t.me/r_Cumtown) | 1 hour |
-| [/r/youshouldknow](https://www.reddit.com/r/youshouldknow/) | [@r_youshouldknow](https://t.me/r_youshouldknow) | 1 hour |
 | [/r/bikinimoe](https://www.reddit.com/r/bikinimoe/) | [@BikiniMoe](https://t.me/BikiniMoe) | 1 hour |
 | [/r/SatisfactoryGame](https://www.reddit.com/r/SatisfactoryGame/) | [@r_SatisfactoryGame](https://t.me/r_SatisfactoryGame) | 1 hour |
 | [/r/wtf](https://www.reddit.com/r/wtf/) | [@reddit_wtf](https://t.me/reddit_wtf) | 1 hour |
@@ -326,7 +322,6 @@ Currently alive channels
 | [/r/animegifs](https://www.reddit.com/r/animegifs/) | [@r_animegifs](https://t.me/r_animegifs) | 1 hour |
 | [/r/bishounen](https://www.reddit.com/r/bishounen/) | [@r_bishounen](https://t.me/r_bishounen) | 1 hour |
 | [/r/KamenRider](https://www.reddit.com/r/KamenRider/) | [@r_KamenRider](https://t.me/r_KamenRider) | 1 hour |
-| [/r/NewVegasMemes](https://www.reddit.com/r/NewVegasMemes/) | [@noievegos](https://t.me/noievegos) | 1 hour |
 | [/r/piano](https://www.reddit.com/r/piano/) | [@r_piano](https://t.me/r_piano) | 1 hour |
 | [/r/brasil](https://www.reddit.com/r/brasil/) | [@reddit_brasil](https://t.me/reddit_brasil) | 1 hour |
 | [/r/Kerala](https://www.reddit.com/r/Kerala/) | [@r_kerala](https://t.me/r_kerala) | 1 hour |
@@ -344,13 +339,41 @@ Currently alive channels
 | [/r/moviesuggestions](https://www.reddit.com/r/moviesuggestions/) | [@r_moviesuggestions](https://t.me/r_moviesuggestions) | 1 hour |
 | [/r/shittylifeprotips](https://www.reddit.com/r/shittylifeprotips/) | [@prolifetipss](https://t.me/prolifetipss) | 1 hour |
 | [/r/Animewallpaper](https://www.reddit.com/r/Animewallpaper/) | [@rAnimewallpaper](https://t.me/rAnimewallpaper) | 1 hour |
-| [/r/golfclash](https://www.reddit.com/r/golfclash/) | [@golfclashh](https://t.me/golfclashh) | 1 hour |
 | [/r/TerribleFacebookMemes](https://www.reddit.com/r/TerribleFacebookMemes/) | [@TerribleFacebookMemes](https://t.me/TerribleFacebookMemes) | 1 hour |
 | [/r/invites](https://www.reddit.com/r/invites/) | [@r_invites](https://t.me/r_invites) | 1 hour |
 | [/r/OSHA](https://www.reddit.com/r/OSHA/) | [@reddit_OSHA](https://t.me/reddit_OSHA) | 1 hour |
 | [/r/communism](https://www.reddit.com/r/communism/) | [@r_communism](https://t.me/r_communism) | 1 hour |
 | [/r/Sino](https://www.reddit.com/r/Sino/) | [@r_Sino](https://t.me/r_Sino) | 1 hour |
 | [/r/MoreTankieChapo](https://www.reddit.com/r/MoreTankieChapo/) | [@MoreTankieChapo](https://t.me/MoreTankieChapo) | 1 hour |
+| [/r/NatureIsFuckingLit](https://www.reddit.com/r/NatureIsFuckingLit/) | [@NatureIsLit](https://t.me/NatureIsLit) | 1 hour |
+| [/r/comedynecrophilia](https://www.reddit.com/r/comedynecrophilia/) | [@comedynecrophilia](https://t.me/comedynecrophilia) | 1 hour |
+| [/r/mallubabes](https://www.reddit.com/r/mallubabes/) | [@r_mallubabes](https://t.me/r_mallubabes) | 1 hour |
+| [/r/dogelore](https://www.reddit.com/r/dogelore/) | [@rdogelore](https://t.me/rdogelore) | 1 hour |
+| [/r/trackballs](https://www.reddit.com/r/trackballs/) | [@reddit_trackballs](https://t.me/reddit_trackballs) | 1 hour |
+| [/r/Moescape](https://www.reddit.com/r/Moescape/) | [@r_moescape](https://t.me/r_moescape) | 1 hour |
+| [/r/ImaginaryLandscapes](https://www.reddit.com/r/ImaginaryLandscapes/) | [@r_imaginarylandscapes](https://t.me/r_imaginarylandscapes) | 1 hour |
+| [/r/desigentlemanboners](https://www.reddit.com/r/desigentlemanboners/) | [@r_dgb](https://t.me/r_dgb) | 1 hour |
+| [/r/BollyBlindsNGossip](https://www.reddit.com/r/BollyBlindsNGossip/) | [@bollybng](https://t.me/bollybng) | 1 hour |
+| [/r/AppHookUp](https://www.reddit.com/r/AppHookUp/) | [@r_AppHookUp](https://t.me/r_AppHookUp) | 2 hours |
+| [/r/uruguay](https://www.reddit.com/r/uruguay/) | [@reddituruguay](https://t.me/reddituruguay) | 1 hour |
+| [/r/trippinthroughtime](https://www.reddit.com/r/trippinthroughtime/) | [@medieval_memes](https://t.me/medieval_memes) | 1 hour |
+| [/r/onepunchman](https://www.reddit.com/r/onepunchman/) | [@r_opm](https://t.me/r_opm) | 1 hour |
+| [/r/preppers](https://www.reddit.com/r/preppers/) | [@r_preppers](https://t.me/r_preppers) | 1 hour |
+| [/r/%A_LOT_OF_CRYPTO_RELATED%](https://www.reddit.com/r/Chainlink+Vechain+FetchAI_Community+perlin+Qtum+NEO+hashgraph+IoTeX+elrondnetwork+Aeternity+loopringorg+waltonchain+nebulas+IOStoken+NavCoin+viacoin+skycoin+MoedaBanking+WabiToken+EnjinCoin+OntologyNetwork+PolymathNetwork+insolar+nexusearth+zcoin+zilliqa+quarkchainio+tezos+Neblio+helloicon+ArkEcosystem+kybernetwork+0xProject+BATProject+SysCoin+omise_go+pivx+civicplatform+factom+nem+Stellar+Ripple+Wavesplatform+statusim+Ardor+stratisplatform+GolemProject+komodoplatform+storj+vergecurrency+eos+siacoin/) | [@cryptoinstantnews2](https://t.me/cryptoinstantnews2) | 1 hour |
+| [/r/LeagueOfMemes](https://www.reddit.com/r/LeagueOfMemes/) | [@r_league_of_memes](https://t.me/r_league_of_memes) | 15 mins |
+| [/r/VirtualYoutubers](https://www.reddit.com/r/VirtualYoutubers/) | [@vtuber_en](https://t.me/vtuber_en) | 1 hour |
+| [/r/islam](https://www.reddit.com/r/islam/) | [@r_islam_channel](https://t.me/r_islam_channel) | 1 hour |
+| [/r/antimeme](https://www.reddit.com/r/antimeme/) | [@r_antimeme](https://t.me/r_antimeme) | 1 hour |
+| [/r/soccercirclejerk](https://www.reddit.com/r/soccercirclejerk/) | [@soccermemer](https://t.me/soccermemer) | 1 hour |
+| [/r/simpsonsshitposting](https://www.reddit.com/r/simpsonsshitposting/) | [@r_simpsonshitpost](https://t.me/r_simpsonshitpost) | 1 hour |
+| [/r/nosafetysmokingfirst](https://www.reddit.com/r/nosafetysmokingfirst/) | [@r_nosafetysmokingfirst](https://t.me/r_nosafetysmokingfirst) | 1 hour |
+| [/r/okbuddyretard](https://www.reddit.com/r/okbuddyretard/) | [@okbuddyretardd](https://t.me/okbuddyretardd) | 1 hour |
+| [/r/memes](https://www.reddit.com/r/memes/) | [@memanon](https://t.me/memanon) | 1 hour |
+| [/r/houkai3rd](https://www.reddit.com/r/houkai3rd/) | [@r_houkai3rd](https://t.me/r_houkai3rd) | 1 hour |
+| [/r/rust](https://www.reddit.com/r/rust/) | [@r_rust](https://t.me/r_rust) | 1 hour |
+| [/r/blursedimages](https://www.reddit.com/r/blursedimages/) | [@r_Blursedimages](https://t.me/r_Blursedimages) | 1 hour |
+| [/r/Otonokizaka](https://www.reddit.com/r/Otonokizaka/) | [@r_Otonokizaka](https://t.me/r_Otonokizaka) | 1 hour |
+| [/r/ChinaDress](https://www.reddit.com/r/ChinaDress/) | [@r_ChinaDress](https://t.me/r_ChinaDress) | 1 hour |
 |  | ... be the next one ... |  |@
 
 
